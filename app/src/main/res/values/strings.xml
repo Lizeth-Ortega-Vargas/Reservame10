@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reservame</string>
+    <string name="action_settings">Resérvaciones</string>
+    <string name="title_activity_main_reservaciones">MainReservaciones</string>
+</resources>
